@@ -1,33 +1,16 @@
-### Hi there 👋
-
-<!--
-**Cx330-502/Cx330-502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello;Guy!&font=Roboto" />
+<img align="right" src="https://count.getloli.com/get/@:Cx330-502?theme=rule34">
 
 ## 摸鱼达人-折松
 
 <!-- 热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。 -->
+<p>
+<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<a href="https://cx330-502.github.io"><img src="https://img.shields.io/static/v1?label=Blog&message=个人网站&color=red"/></a>
+</p>
 
-### **社交主页：**
 
-<!--  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-
-
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
- -->
-### **技术栈:**
+<!-- ### **技术栈:** -->
 
 <!-- <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
@@ -40,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a> -->
 
-### 开源项目
+<!-- ### 开源项目 -->
 
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
 <br><br><br> -->
@@ -50,5 +33,13 @@ Here are some ideas to get you started:
 [![](https://activity-graph.herokuapp.com/graph?username=Cx330-502&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Cx330-502&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cx330-502&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cx330-502&layout=compact&langs_count=6)
+<!-- 最常使用的语言 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cx330-502&layout=compact)
+
+<!-- 活动统计图 -->
+![](https://activity-graph.herokuapp.com/graph?username=Cx330-502&theme=github)
+
+<!-- B站 -->
+<!-- ![](https://stats.justsong.cn/api/csdn?id=CSDN用户名&theme=dark) -->
+![](https://stats.justsong.cn/api/bilibili/?id=1836433271&theme=github)
